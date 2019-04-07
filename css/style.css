@@ -59,7 +59,7 @@ body {
 /* top menu starts */
 
 div.scrollmenu {
-    background-color: #f3f3f3;
+    /* background-color: #f3f3f3; */
     overflow: auto;
     white-space: nowrap;
 }
@@ -68,17 +68,18 @@ div.scrollmenu a {
     display: inline-block;
     color: #666;
     text-align: center;
-    padding: 14px;
+    padding: 1%;
     text-decoration: none;
 }
 
 div.scrollmenu a:hover:not(.active) {
-    background-color: #ddd;
+    /* background-color: #ddd; */
 }
 
 div.scrollmenu a.active {
-    color: white;
-    background-color: #4CAF50;
+    /* color: white; */
+    /* background-color: #4CAF50; */
+
 }
 
 div.scrollmenu a:hover {

@@ -62,6 +62,7 @@ div.scrollmenu {
     /* background-color: #f3f3f3; */
     overflow: auto;
     white-space: nowrap;
+    cursor: pointer;
 }
 
 div.scrollmenu a {
@@ -79,6 +80,7 @@ div.scrollmenu a:hover:not(.active) {
 div.scrollmenu a.active {
     /* color: white; */
     /* background-color: #4CAF50; */
+
 
 }
 

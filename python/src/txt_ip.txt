@@ -1,0 +1,100 @@
+
+
+How do dehumidifiers work?
+12-15 minutes
+
+
+
+
+Is damp climbing up your walls... and driving you up the wall? Few things make a home quite so unpleasant. Whether you have a damp problem with your building (rising or penetrating damp) or your moisture comes from cooking or drying laundry inside (condensation), the result can be a horrible musty smell, mold growing on your walls (and on your clothes), and a greater risk of respiratory illness. It can take time to sort out a major damp problem so what do you do in the meantime? One solution is to invest in a dehumidifier: an electric gadget that removes moisture from the air. Let's take a closer look at how they work!
+
+Photo: A typical home dehumidifier. A machine like this costs about $200 (£100) and uses about 190 watts of electricity (slightly more than three ordinary 60-watt lamps burning at once), so it's reasonably economical to run. This one is a DEM10 made by DeLonghi, though many other makes and models are available.
+What is humidity?
+
+Most of the time we don't give a moment's thought to the atmosphere in our homes (or outside); why should we, it's invisible! If we think about it at all, we tend to think of it as a gas. Look up at the sky and you see a different point of view. Clouds whizzing over your head are a sure sign that the air contains water, either as a vapor (if it's dry) or liquid (if it's actually raining). But the same is true inside your home. You might think the air is dry—and if you have central heating, it might even feel that way—but there's a huge amount of moisture around you too. If you dry laundry inside your home or do a lot of stove-top cooking without proper ventilation, the humidity levels can be surprisingly high. Condensation on the windows (or, even worse, water dripping down the walls—as it sometimes does in my kitchen) is a sure sign of a humidity problem.
+
+Opened sachet of silica gel showing the brownish yellow crystals inside
+
+Photo: Water-absorbing silica gel, often packaged in little paper bags inside camera and binocular cases, effectively tackles small amounts of humidity. But it's no help if you have a major excess of moisture in your home. For that, you need a proper dehumidifier.
+Why does indoor humidity matter?
+
+We're walking water bags—adult bodies are typically 60 percent water—but that doesn't mean our homes should be like fish tanks! High humidity can cause all kinds of problems. It can make clothing go moldy in your cupboard, it's bad for computers (it can cause rusting or short circuits inside their cases) and optical equipment (that's why things like cameras and binoculars are sold with water-absorbing sachets of silica gel)—and it's bad for your health too. According to a scientific review of the health effects of humidity published in 1986 by Arundel et al, high levels of indoor humidity can encourage a flourishing of bacteria, viruses, mites and fungi, and more respiratory infections and sicknesses: "The majority of adverse health effects caused by relative humidity would be minimized by maintaining indoor levels between 40 and 60%."
+What does a dehumidifier do?
+
+A dehumidifier is a bit like a vacuum cleaner: it sucks in air from your room at one end, takes the moisture out of it, and then blows it back out into the room again. The moisture drips through into a collection tank that you have to empty, from time to time. How is the moisture removed? That's where a dehumidifier is more like an air conditioning unit (sometimes called an air-con or HVAC, which stands for heating ventilating air conditioning unit), which, itself, works a bit like a refrigerator! Confused by all these appliances? Let's look inside a dehumidifier and find out what all the bits do.
+How a dehumidifier works
+
+Dehumidifiers work in one of two ways—by refrigeration (cooling air to remove moisture using similar technology to a refrigerator) or by absorption/adsorption (where moisture is absorbed into or adsorbed onto a drying material and then removed). We'll look at each of these in turn.
+Refrigeration
+
+Labeled artwork showing how a dehumidifier works
+
+    Warm, moist air is sucked in through a grille on one side of the machine.
+    An electric fan draws the air inward.
+    The warm air passes over freezing cold pipes through which a coolant circulates. (Note: We've simplified this part of the machine quite a lot. It's like a mini air-conditioner or refrigerator endlessly circulating coolant with a pump and compressor.) As the air cools, the moisture it contains turns back into liquid water and drips downward off the pipes.
+    Now free of moisture, the air passes over a heating element (similar to the one in a fan heater) and warms back up to its original temperature.
+    Warm, dry air blows back into the room through another grille.
+    The moisture that was in the air originally drips down into a collecting tray (or bucket) at the bottom of the machine.
+    A plastic float in the machine rises upward as the collecting tray fills up.
+    When the tray is full, the float trips an electric switch that turns off the fan and switches on an indicator light telling you the machine needs emptying.
+
+Absorption/adsorption
+
+Not all dehumidifiers work by refrigeration. Some work by "mopping" the water out of the air with a water-holding material and then "squeezing" the water away to remove it. The mopping action involves either absorption (where the water soaks right into something) or adsorption (where the water is picked up on the surface of something).
+
+I haven't been able to discover if there was an original inventor of the dehumidifier—someone who first came up with the idea of removing water from air with a machine—or if the idea evolved gradually over time. Willis Carrier, pioneer of the air conditioner, is certainly one strong candidate; his machines were largely based on refrigeration technology and, although described as "air conditioners," could remove moisture from air too. Another early contender is James Locke, who produced this ingenious absorption dehumidifier and air conditioner for Honeywell in 1939/1940. I've colored it in and picked out a few of the key components to illustrate the basic principle, but I'm going to gloss over the details.
+
+Dehumidifier design patented by James Locke, October 29, 1940 for Minneapolis Honeywell Regulator Company.
+
+Artwork: Diagram from US Patent 2,219,547: Air Conditioning System by James Locke, courtesy of US Patent and Trademark Office.
+How does it work?
+
+    Moist air is drawn in from the room through a duct.
+    The air moves past a large rotating wheel made of water-absorbing material, which removes the humidity.
+    The air is drawn by a fan operated by an electric motor.
+    Dry air is blown back out into the room.
+    An air duct underneath is kept hot by an electric heating element (yellow).
+    The moisture-absorbing wheel rotates through the heated air space and has hot air blown past it to dry it out.
+    The air is sucked past by a fan and electric motor similar to the one up above.
+    The hot, wet air is blown out through an exhaust duct.
+
+As you'd expect from Honeywell, the whole thing is controlled by thermostats and humidity sensors so you can make the room as hot and dry as you wish. The black lines you can see on the right and bottom of the picture mostly show electric circuits controlling the machine. The main room thermostat is at the top, shown in gray.
+
+If you're interested, you can find more about how it works by reading Locke's US Patent 2,219,547: Air Conditioning System.
+How do you compare dehumidifiers?
+
+According to The Code of Federal Regulations of the United States of America, there are two key measurements you can use:
+Water removed per day
+
+The simplest one is how much water a dehumidifier removes, measured in liters (or pints) collected in 24 hours of continuous operation: bigger machines will obviously draw out more water than smaller ones. If you have a lot of water to shift very quickly, perhaps after a river flood, this will be the best measurement to go by. In an emergency like this, you don't really care how much electricity you're using, since (hopefully) it will only be for a fairly short time.
+Efficiency
+
+If you're using a dehumidifier for much longer (perhaps on a permanent basis, because you live in a damp basement), you'll also need to study how much power your machine consumes. The best measurement in this case is the efficiency of the machine (sometimes called its energy factor), which is how much water it removes divided by how much power it uses, measured in liters (or pints) per kilowatt hour (L/kWh).
+What about the wattage?
+
+The wattage (power consumption) alone isn't going to tell you how good a dehumidifier is, but, generally speaking, a higher wattage means the machine will be working harder and removing more water per hour. I've just looked up figures for a couple of machines to do a direct comparison. A typical mini table-top dehumidifier uses about 20 watts of power, extracts 250ml (0.25 liters) of water per day, and has a tank capacity of 500ml (0.5 liters), while a typical big wheelable dehumidifier removes 50 liters of water per day (200 times more), and uses about 1000 watts. The big machine will extract 50 liters in one day and use 24kWh of energy in the process; the small machine will take 4 days to extract a single liter and 200 days to remove 50 liters, so using 200 × 24 hours × 0.02 kW = 96kWh to do it. So the big machine is 200 times faster and four times more energy efficient—something you can't tell by comparing the two wattage figures alone.
+Find out more
+On this website
+
+    Air conditioning: A step up from basic dehumidifying! See photos and a diagram of the inside of a typical air conditioner.
+    Clothes drying: Here's the science behind getting your clothes dry. If you dry clothes indoors, you might as well hurl buckets full of water into your home. But what are the alternatives? Does outdoor drying actually work? And what do you do in winter?
+    Heat-recovery ventilation (HRV): How can you ventilate your home without letting all the valuable warmth escape? HRV uses heat exchangers to bring in fresh air without wasting heat.
+
+Other websites
+
+    Inside a dehumidifier: This photo on Wikimedia Commons shows you a dehumidifier with the case open.
+    Keep your home free from mold and damp: Some practical advice from the UK's Dover District Council on reducing condensation problems in your home.
+    Indirect health effects of relative humidity in indoor environments by A V Arundel, E M Sterling, J H Biggin, and T D Sterling. Environmental Health Perspectives. 1986 March; 65: 351–361.
+    Energy Star: Dehumidifiers: Tips for choosing an energy-efficient dehumidifier from the US Government.
+
+Articles
+
+    Solar-Powered Device Pulls Water Out of Thin (and Pretty Dry) Air by Prachi Patel. IEEE Spectrum, 13 April 2017. How a compact device using a type of chemical called a metal organic framework (MOF) can extract drinking water from the air.
+    Does using a dehumidifier help to reduce heating costs?: by Leo Hickman, The Guardian, 20 December 2011. A reader debate about the merits of using dehumidifiers.
+    Does using a dehumidifier help to reduce heating costs?: by Leo Hickman, The Guardian, 20 December 2011. A reader debate about the merits of using dehumidifiers.
+    Squeezing Humidity Out of the Air by Matthew L. Wald. The New York Times, 12 August 2011. Describes the dessicant-based air-conditioning and humidity control systems produced by Advantix Systems.
+    Damp homes 'could cause asthma': BBC News, 4 March 2007. There are links between damp homes and asthma, although it's uncertain whether damp is a cause or a trigger for asthma caused by other factors. (House mites tend to thrive in damp homes.)
+    How to dry out a flooded house by Jay Romano, New York Times, 9 July 2006. Some simple tactics for reclaiming and restoring your flooded home, including dehumidifiers.
+    Dehumidify to control moisture laden air/build your own dehumidifier: Popular Science, August 1961. This an old article from Pop Sci, but the advice is still good today.
+
+
